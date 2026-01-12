@@ -1,7 +1,4 @@
-# Portfoli
-
-Tento repozitář **není crawler**
-
+# Portfolio
 ---
 
 ## Projekty
